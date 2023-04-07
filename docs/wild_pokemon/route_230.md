@@ -14,8 +14,8 @@ Area                                  | Pokémon                       | &nbsp; 
 &nbsp;                                | ![][336]<br>[Seviper]<br>10%  | ![][176]<br>[Togetic]<br>5%     | &nbsp;                         | &nbsp;                       | &nbsp;                       | &nbsp;
 🌊<br>Surf<br>Lv. 65 - 67              | ![][364]<br>[Sealeo]<br>60%   | ![][073]<br>[Tentacruel]<br>40% | &nbsp;                         | &nbsp;                       | &nbsp;                       | &nbsp;
 ![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br>[Magikarp]<br>60% | ![][222]<br>[Corsola]<br>30%    | ![][320]<br>[Wailmer]<br>10%   | &nbsp;                       | &nbsp;                       | &nbsp;
-![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65% | ![][222]<br>[Corsola]<br>30%    | ![][320]<br>[Wailmer]<br>10%   | &nbsp;                       | &nbsp;                       | &nbsp;
-![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65% | ![][222]<br>[Corsola]<br>30%    | ![][321]<br>[Wailord]<br>10%   | &nbsp;                       | &nbsp;                       | &nbsp;
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][222]<br>[Corsola]<br>30%    | ![][320]<br>[Wailmer]<br>10%   | &nbsp;                       | &nbsp;                       | &nbsp;
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][222]<br>[Corsola]<br>30%    | ![][321]<br>[Wailord]<br>10%   | &nbsp;                       | &nbsp;                       | &nbsp;
 
 [Golduck]: ../../pokemons/055/
 [Tentacruel]: ../../pokemons/073/
